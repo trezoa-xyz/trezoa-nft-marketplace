@@ -115,7 +115,7 @@ export default function Status() {
               <span>Incident History</span>
             </a>
             <a
-              href="https://themeforest.net/user/ib-themes/portfolio"
+              href="https://trezoa.io/user/ib-themes/portfolio"
               className="hover:text-blue dark:text-jacarta-300"
             >
               Powered by ib-themes

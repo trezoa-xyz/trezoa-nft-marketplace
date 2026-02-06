@@ -68,7 +68,7 @@ export default function Footer1() {
           <span className="text-sm dark:text-jacarta-400">
             &copy; {new Date().getFullYear()} Trezoa — Made by{" "}
             <a
-              href="https://themeforest.net/user/ib-themes/portfolio"
+              href="https://trezoa.io/user/ib-themes/portfolio"
               className="hover:text-accent"
             >
               ib-themes

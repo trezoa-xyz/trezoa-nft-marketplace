@@ -195,8 +195,8 @@ export default function SinglePost({ id }) {
                 ib-themes
               </span>
               <p className="mb-4 dark:text-jacarta-300">
-                Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme
-                natoque penatibus et magnis dis parturient montes.
+                Building the future of NFT marketplaces with cutting-edge technology
+                and innovative solutions for creators and collectors worldwide.
               </p>
               <div className="flex space-x-5">
                 {socials2.map((elm, i) => (
